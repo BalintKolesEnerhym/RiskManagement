@@ -5,7 +5,7 @@ description: A simple CAP project.
 parameters:
   deploy_mode: html5-repo
   enable-parallel-deployments: true
-  subdomain: cdba5af3trial
+  subdomain: 9680c3eatrial
 build-parameters:
   before-all:
     - builder: custom
